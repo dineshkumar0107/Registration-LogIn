@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810755601044",
+    "project_id": "registration-login-f6900",
+    "storage_bucket": "registration-login-f6900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810755601044:android:9e1299ec10f193d768ba81",
+        "android_client_info": {
+          "package_name": "com.example.registration_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810755601044-nabscdgop94t7l1s8rkr3g92km3s8a0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJBtm_8moNKMvFvHoUUTpqgp8ImFQsXwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810755601044-nabscdgop94t7l1s8rkr3g92km3s8a0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
